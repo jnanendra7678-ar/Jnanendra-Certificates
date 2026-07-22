@@ -2,30 +2,54 @@
 
 Welcome to my certification portfolio.
 
-This repository contains verified certificates earned while learning programming, artificial intelligence, and software development.
+This repository contains certificates that document my continuous learning in programming, artificial intelligence, software engineering, and related technologies.
 
-## Programming
+---
 
+## 📂 Categories
+
+### Programming
 - Programming Using C++
 - Beginning C++ Game Programming – Part 1
 - Fundamentals of the C Language
 
-## Python
-
+### Python
 - Basics of Python
 
-## Computer Science
-
+### Computer Science
 - Computer Fundamentals 101
 
 ---
 
-## About Me
+## 🚀 Main Project
 
-I am an aspiring AI Engineer currently building **S.P.I.D.E.R.**, a modular AI assistant designed to evolve into a complete AI operating system.
+### S.P.I.D.E.R.
+Smart Personal Intelligent Digital Executive & Resource
+
+A modular AI assistant designed to evolve into a complete AI operating system.
+
+Project Repository:
+https://github.com/jnanendra7678-ar/SPIDER-AI
+
+---
+
+## 👨‍💻 About Me
+
+I am an aspiring AI Engineer passionate about:
+
+- Artificial Intelligence
+- Python Development
+- Voice Assistants
+- Software Architecture
+- Automation
+- Intelligent Systems
 
 GitHub:
 https://github.com/jnanendra7678-ar
 
-Main Project:
-https://github.com/jnanendra7678-ar/SPIDER-AI
+LinkedIn:
+https://www.linkedin.com/in/jnanendra-p-9bb8512a6
+
+---
+
+⭐ Thank you for visiting my certification portfolio.
